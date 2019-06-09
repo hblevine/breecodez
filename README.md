@@ -1,2 +1,4 @@
 # breecodez
-first lines
+
+Learning to code!
+I'm new to GitHub, too.
